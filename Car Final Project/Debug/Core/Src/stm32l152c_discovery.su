@@ -1,0 +1,7 @@
+../Core/Src/stm32l152c_discovery.c:83:10:BSP_GetVersion	4	static
+../Core/Src/stm32l152c_discovery.c:100:6:BSP_LED_Init	48	static
+../Core/Src/stm32l152c_discovery.c:126:6:BSP_LED_On	16	static
+../Core/Src/stm32l152c_discovery.c:139:6:BSP_LED_Off	16	static
+../Core/Src/stm32l152c_discovery.c:152:6:BSP_LED_Toggle	16	static
+../Core/Src/stm32l152c_discovery.c:176:6:BSP_PB_Init	40	static
+../Core/Src/stm32l152c_discovery.c:215:10:BSP_PB_GetState	16	static
